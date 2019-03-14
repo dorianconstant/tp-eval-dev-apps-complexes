@@ -1,12 +1,12 @@
 class CompoTaskList {
     /**
      * @class
-     * @summary Composant qui affiche une liste de tâches
+     * @summary Composant qui affiche une liste de tâches dans une div sur la page index.html
      * Les paramètres obligatoire, à transmettre sous la forme
      * d'un objet, sont :
      * - task : objet Task à afficher
      * - element : objet HTMLElement du DOM dans lequel
-     *   le code HTML doit être affiché
+     *   le code HTML doit être affiché dans une div sur la page index.html
      * @param {*} param Objet de paramétrage
      * @example
      * let tk = new Task('test', null);
